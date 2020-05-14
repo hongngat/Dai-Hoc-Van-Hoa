@@ -141,8 +141,11 @@
 		width: 100%;
 		
 	}
+	.navbar-brand{
+		display: block;
+	}
 	.logo-top{
-		width: 50%;
+		display: none;
 		
 	}
 }

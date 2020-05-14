@@ -137,7 +137,13 @@ nav{
 .menu-1{
 	margin-top:3%;
 }
-
+.navbar-brand{
+	display: none;
+}
+.navbar-brand a{
+	font-weight: 700;
+	color: #FFF;
+}
 /*content*/
 
 /*banner*/
