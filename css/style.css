@@ -141,8 +141,9 @@ nav{
 	display: none;
 }
 .navbar-brand a{
+	text-decoration: none;
 	font-weight: 700;
-	color: #FFF;
+	color: #FFFF;
 }
 /*content*/
 
